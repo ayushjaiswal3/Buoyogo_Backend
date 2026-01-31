@@ -158,27 +158,27 @@ Query stats
 
 ##8. What I Would Improve With More Time
 
-      Add Kafka for async ingestion
+- Add Kafka for async ingestion
 
-     Add Redis for hot stats caching
+- Add Redis for hot stats caching
 
-     Pagination for large stats queries
+- Pagination for large stats queries
 
-     Rate limiting & authentication
+- Rate limiting & authentication
 
-     More advanced benchmarking (JMH)
+- More advanced benchmarking (JMH)
 
-     Schema migration with Flyway
+- Schema migration with Flyway
 
 
 Why This Project Matters
 
 This backend demonstrates:
 
-Correctness under concurrency
+- Correctness under concurrency
 
-Real-world ingestion patterns
+- Real-world ingestion patterns
 
-Clean domain-driven design
+- Clean domain-driven design
 
-Production-ready validation and stats logic
+- Production-ready validation and stats logic
