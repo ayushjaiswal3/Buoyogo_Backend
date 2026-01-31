@@ -155,6 +155,7 @@ Ingest events
 Query stats
 
         GET /events/stats?machineId=M-001&start=...&end=...
+---
 
 ##8. What I Would Improve With More Time
 
@@ -170,8 +171,9 @@ Query stats
 
 - Schema migration with Flyway
 
+---
 
-Why This Project Matters
+# Why This Project Matters
 
 This backend demonstrates:
 
